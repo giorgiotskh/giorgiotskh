@@ -8,9 +8,9 @@ I build software products, hardware systems, and startups.
 
 | Project | What | Stack |
 |---|---|---|
-| [Spotly](https://github.com/GAMO) | Event discovery platform for Georgia | Flutter, Firebase |
-| [ResidentOS](https://github.com/giorgiotskh/ResidentOs) | Property management SaaS for apartment complexes | Flutter, Firebase |
-| [Kursebi] | Tutoring center management SaaS | React, TypeScript, Firebase |
+| Spotly | Event discovery platform for Georgia | Flutter, Firebase |
+| ResidentOS | Property management SaaS for apartment complexes | Flutter, Firebase |
+| Kursebi | Tutoring center management SaaS | React, TypeScript, Firebase |
 
 ## Hardware
 
