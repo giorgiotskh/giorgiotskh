@@ -1,16 +1,35 @@
-## Hi there 👋
+# Giorgi Otskheli
 
-<!--
-**giorgiotskh/giorgiotskh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder from Tbilisi, Georgia. 17.
 
-Here are some ideas to get you started:
+I build software products, hardware systems, and startups.
+Not planning to. Building now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active Projects
+
+| Project | What | Stack |
+|---|---|---|
+| [Spotly](https://github.com/GAMO) | Event discovery platform for Georgia | Flutter, Firebase |
+| [ResidentOS](https://github.com/giorgiotskh/ResidentOs) | Property management SaaS for apartment complexes | Flutter, Firebase |
+| [Kursebi] | Tutoring center management SaaS | React, TypeScript, Firebase |
+
+## Hardware
+
+ESP32 · Arduino · ESP8266 · Sensor fusion · Autonomous robots · IoT systems
+
+Built: autonomous RC plane, sumo robot (Georgian Robotics Championship),
+SENTINEL RF/BLE threat monitor, obstacle-avoidance vehicle, Wi-Fi controlled boat
+
+## Stack
+
+**Software:** Flutter · React · TypeScript · Python · C/C++ · Firebase · Git  
+**Hardware:** Arduino · ESP32 · I2C · UART · SPI · Motor drivers · Relay systems  
+**Tools:** Fusion 360 · 3D Printing · Cloudflare · Firebase
+
+## Targets
+
+TUM · Polimi · KIT — Mechanical Engineering + Embedded Systems
+
+---
+
+[Portfolio](https://otskhe.live) · [LinkedIn](https://linkedin.com/in/giorgiotskh) · contact@otskhe.live
