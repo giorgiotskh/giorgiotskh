@@ -3,7 +3,6 @@
 Builder from Tbilisi, Georgia. 17.
 
 I build software products, hardware systems, and startups.
-Not planning to. Building now.
 
 ## Active Projects
 
@@ -19,6 +18,7 @@ ESP32 · Arduino · ESP8266 · Sensor fusion · Autonomous robots · IoT systems
 
 Built: autonomous RC plane, sumo robot (Georgian Robotics Championship),
 SENTINEL RF/BLE threat monitor, obstacle-avoidance vehicle, Wi-Fi controlled boat
+and many more you can view on [otskhe.live](https://otskhe.live/#projects)
 
 ## Stack
 
